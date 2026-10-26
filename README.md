@@ -12,4 +12,4 @@ export default function ContactButton() {
 <a href="mailto:support@example.com">Email Us</a>
 
 
-<a href="app.goo.gl">google maps</a>
+<a href="google.com/maps">google maps</a>
