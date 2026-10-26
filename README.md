@@ -1,13 +1,7 @@
 <a href="https://www.google.com" target="_blank">Google</a>
 
 
-export default function ContactButton() {
-  return (
-    <a href="tel:+12104463054" className="call-btn">
-      Call Support
-    </a>
-  );
-}
+1+(210).344.3054 contact us
 
 <a href="mailto:support@example.com">Email Us</a>
 
