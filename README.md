@@ -4,3 +4,6 @@
 <a href="tel:*#0808#*">Call Support</a>
 
 <a href="mailto:support@example.com">Email Us</a>
+
+
+<a href="app.goo.gl">google maps</a>
