@@ -1,6 +1,7 @@
 <a href="https://www.google.com" target="_blank">Google</a>
 
-<a href="intent://#Intent;scheme=samsunginterweb;package=com.sec.android.app.sbrowser;end">Open Samsung Internet</a>
+[🚀 Open Samsung Internet](intent://#Intent;scheme=samsunginterweb;package=com.sec.android.app.sbrowser;end)
+
 
 1+(210).344.3054 contact us
 
